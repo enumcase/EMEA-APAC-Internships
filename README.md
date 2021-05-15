@@ -2,9 +2,9 @@
 
 Hey there! 👋
 
-Feel free to use and share this repo for IT internships in EMEA and APAC regions for summer 2022 🌱
+Feel free to use and share this repo for tech internships in EMEA and APAC regions for summer 2022 🌱
 
-Contribute new internships by sumbitting a pull request 📬
+Contribute by adding new internship opportunities via pull request 📬
 
 The repo was inspired by the similar one from [Summer 2022 Internships by Pitt CSC](https://github.com/pittcsc/Summer2022-Internships) ❤️
 
