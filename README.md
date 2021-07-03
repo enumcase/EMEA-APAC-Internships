@@ -20,3 +20,4 @@ The repo was inspired by the similar one from [Summer 2022 Internships by Pitt C
 
 Visa sponsorship and relocation support is not available at this time |
 | [Palantir](https://jobs.lever.co/palantir/e3ba9fd6-03e9-4c04-a546-955d8cb7cb94) | APAC, Tokyo, Japan | Forward Deployed Software Engineer, Internship |
+ 
