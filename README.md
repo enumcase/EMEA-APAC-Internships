@@ -19,3 +19,4 @@ The repo was inspired by the similar one from [Summer 2022 Internships by Pitt C
 | [Starship](https://jobs.lever.co/starship/2d74be58-1314-4c5f-a032-0588c56decbf) | EMEA, Estonia, Tallinn | Software Engineering Internship. Visa sponsorship and relocation support is not available at this time |
 | [Palantir](https://jobs.lever.co/palantir/e3ba9fd6-03e9-4c04-a546-955d8cb7cb94) | APAC, Tokyo, Japan | Forward Deployed Software Engineer, Internship |
 | [Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?gh_jid=3015374) | EMEA, London. APAC, Singapore | Software Engineering Internship - Summer 2022. Graduating in 2023 |
+| [Hubspot](https://www.hubspot.com/careers/students/intern-coop) | EMEA, APAC | August: Application opens. October: Applications close. June: Internships begin |
