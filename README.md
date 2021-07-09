@@ -17,6 +17,6 @@ The repo was inspired by the similar one from [Summer 2022 Internships by Pitt C
 | [DEShaw & Co](https://www.deshaw.com/careers/internships) | EMEA, London | Systems Technologist/Administrator Intern |
 | [Clover Health](https://www.cloverhealth.com/en/about-us/job-opening?gh_jid=2941358) | APAC, Hong Kong | Software Engineer (Full Time Semester Internship Program) |
 | [Starship](https://jobs.lever.co/starship/2d74be58-1314-4c5f-a032-0588c56decbf) | EMEA, Estonia, Tallinn | Software Engineering Internship. Visa sponsorship and relocation support is not available at this time |
-| [Palantir](https://jobs.lever.co/palantir/e3ba9fd6-03e9-4c04-a546-955d8cb7cb94) | APAC, Tokyo, Japan | Forward Deployed Software Engineer, Internship |
+| [Palantir](https://www.palantir.com/careers/) | APAC, Tokyo, EMEA, London | Must be planning on graduating in 2023. This should be your final internship before graduating |
 | [Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?gh_jid=3015374) | EMEA, London. APAC, Singapore | Software Engineering Internship - Summer 2022. Graduating in 2023 |
 | [Hubspot](https://www.hubspot.com/careers/students/intern-coop) | EMEA, APAC | August: Application opens. October: Applications close. June: Internships begin |
