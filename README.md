@@ -20,3 +20,4 @@ The repo was inspired by the similar one from [Summer 2022 Internships by Pitt C
 | [Palantir](https://www.palantir.com/careers/) | APAC, Tokyo, EMEA, London | Must be planning on graduating in 2023. This should be your final internship before graduating |
 | [Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?gh_jid=3015374) | EMEA, London. APAC, Singapore | Software Engineering Internship - Summer 2022. Graduating in 2023 |
 | [Hubspot](https://www.hubspot.com/careers/students/intern-coop) | EMEA, APAC | August: Application opens. October: Applications close. June: Internships begin |
+| [Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/?keyword=Intern) | EMEA, APAC | Software Engineer - Intern (London/Hong Kong) |
