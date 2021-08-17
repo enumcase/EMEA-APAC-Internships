@@ -21,3 +21,4 @@ The repo was inspired by the similar one from [Summer 2022 Internships by Pitt C
 | [Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?gh_jid=3015374) | EMEA, London. APAC, Singapore | Software Engineering Internship - Summer 2022. Graduating in 2023 |
 | [Hubspot](https://www.hubspot.com/careers/students/intern-coop) | EMEA, APAC | August: Application opens. October: Applications close. June: Internships begin |
 | [JPMorgan Chase & Co.](https://careers.jpmorgan.com/us/en/students/programs/software-engineer-summer) | EMEA, APAC - Multiple locations | The closest deadline is 31st of October for Software Engineer Program Summer - Analyst in Hong Kong |
+| [Microsoft](https://careers.microsoft.com/students/us/en/job/1091350/Intern-Opportunities-for-Students-Ireland-Software-Engineering-Start-date-Summer-2022) | EMEA, Dublin | - |
