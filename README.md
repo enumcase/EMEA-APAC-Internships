@@ -23,6 +23,6 @@ The repo was inspired by the similar one from [Summer 2022 Internships by Pitt C
 | [JPMorgan Chase & Co.](https://careers.jpmorgan.com/us/en/students/programs/software-engineer-summer) | EMEA, APAC - Multiple locations | The closest deadline is 31st of October for Software Engineer Program Summer - Analyst in Hong Kong |
 | [Microsoft](https://careers.microsoft.com/students/us/en/job/1091350/Intern-Opportunities-for-Students-Ireland-Software-Engineering-Start-date-Summer-2022) | EMEA - Dublin | - |
 | [Jane Street](https://www.janestreet.com/join-jane-street/internships/) | EMEA - London, APAC - Hong Kong | - |
-| [Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/) | EMEA - London, Dublin APAC - Hong Kong | - |
-| [Stripe](https://stripe.com/jobs/search?q=intern+new+grad) | EMEA - London, Dublin APAC - Singapore | - |
+| [Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/) | EMEA - London, Dublin, APAC - Hong Kong | - |
+| [Stripe](https://stripe.com/jobs/search?q=intern+new+grad) | EMEA - London, Dublin, APAC - Singapore | - |
 | [Goldman Sachs - Summer Analyst and Off-cycle Internships](https://www.goldmansachs.com/careers/students/programs/) | Multiple locations across Europe and Asia | - |
