@@ -26,3 +26,4 @@ The repo was inspired by the similar one from [Summer 2022 Internships by Pitt C
 | [Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/) | EMEA - London, Dublin, APAC - Hong Kong | - |
 | [Stripe](https://stripe.com/jobs/search?q=intern+new+grad) | EMEA - London, Dublin, APAC - Singapore | - |
 | [Goldman Sachs - Summer Analyst and Off-cycle Internships](https://www.goldmansachs.com/careers/students/programs/) | Multiple locations across Europe and Asia | - |
+|[Amazon](https://www.amazon.jobs/en/jobs/1694116/software-development-engineer-internship-2022-dublin)| Dublin, Ireland, Europe | - |
