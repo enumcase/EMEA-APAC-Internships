@@ -29,3 +29,11 @@ The repo was inspired by the similar one from [Summer 2022 Internships by Pitt C
 | [Facebook](https://www.facebook.com/careers/v2/jobs/389614179266190/)| EMEA - London | Software Engineer, Intern/Co-op |
 | [Google](https://careers.google.com/jobs/results/111206685625721542/) | APAC - Singapore | STEP Internship. Deadline: 30th September |
 | Shutterstock | EMEA - Dublin | [Software Engineer Intern](https://shutterstock.wd1.myworkdayjobs.com/en-US/ShutterstockCareers/job/Dublin/Software-Engineer-Intern_R0001086), [Data Science Intern](https://shutterstock.wd1.myworkdayjobs.com/en-US/ShutterstockCareers/job/Dublin/Data-Science-Intern_R0001088) |
+
+**Big thanks to the contributors✨**:
+* [justadlet](https://github.com/justadlet)
+* [yeraassyl](https://github.com/yeraassyl)
+* [dulataldazharov](https://github.com/dulataldazharov)
+* [zhumanklv](https://github.com/zhumanklv)
+* [bekadeveloper](https://github.com/bekadeveloper)
+* [madalinalexa](https://github.com/madalinalexa)
