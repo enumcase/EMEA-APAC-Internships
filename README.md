@@ -26,7 +26,6 @@ The repo was inspired by the similar one from [Summer 2022 Internships by Pitt C
 | [Stripe](https://stripe.com/jobs/search?q=intern+new+grad) | EMEA - London, Dublin, APAC - Singapore | - |
 | [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/) | Multiple locations across Europe and Asia | Summer Analyst and Off-cycle Internships |
 | Amazon| EMEA - [Dublin](https://www.amazon.jobs/en/jobs/1694116/software-development-engineer-internship-2022-dublin), [Bucharest](https://www.amazon.jobs/en/jobs/1674285/software-dev-engineer-intern-bucharest-summer-2022), [Madrid](https://www.amazon.jobs/en/jobs/1709009/software-development-engineer-internship-2022-madrid-spain
-), [Barcelona](https://www.amazon.jobs/en/jobs/1709010/software-development-engineer-internship-2022-barcelona-spain
-) | - |
+), [Barcelona](https://www.amazon.jobs/en/jobs/1709010/software-development-engineer-internship-2022-barcelona-spain) | - |
 | [Facebook](https://www.facebook.com/careers/v2/jobs/389614179266190/)| EMEA - London | Software Engineer, Intern/Co-op |
 | [Google](https://careers.google.com/jobs/results/111206685625721542/) | APAC - Singapore | STEP Internship. Deadline: 30th September |
