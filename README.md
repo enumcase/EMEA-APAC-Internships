@@ -15,7 +15,7 @@ The repo was inspired by the similar one from [Summer 2022 Internships by Pitt C
 | [Optiver](https://www.optiver.com/working-at-optiver/career-opportunities/990203/?gh_src=2af42e681us) | EMEA - Amsterdam | Must be a penultimate year student (graduating in 2023) based in the European region |
 | [Morgan Stanley](https://morganstanley.tal.net/vx/candidate/apply/11680) | APAC - Hong Kong | Summer Analyst role. Application deadline due to Sunday, 26th September 23:59 HKT |
 | [DEShaw & Co](https://www.deshaw.com/careers/internships) | EMEA - London | Systems Technologist/Administrator Intern |
-| [Clover Health](https://www.cloverhealth.com/en/about-us/job-opening?gh_jid=2941358) | APAC - Hong Kong | Software Engineer (Full Time Semester Internship Program) |
+| [<del>Clover Health</del>](https://www.cloverhealth.com/en/about-us/job-opening?gh_jid=2941358) | APAC - Hong Kong | **Closed** |
 | [Palantir](https://www.palantir.com/careers/) | APAC - Tokyo, EMEA - London | Must be planning on graduating in 2023. This should be your final internship before graduating |
 | [Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?gh_jid=3015374) | EMEA - London, APAC - Singapore | Software Engineering Internship - Summer 2022. Graduating in 2023 |
 | [Hubspot](https://www.hubspot.com/careers/students/intern-coop) | EMEA, APAC | August: Application opens. October: Applications close. June: Internships begin |
