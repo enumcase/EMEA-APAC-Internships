@@ -30,7 +30,6 @@ The repo was inspired by the similar one from [Summer 2022 Internships by Pitt C
 | [Google](https://careers.google.com/jobs/results/111206685625721542/) | APAC - Singapore | STEP Internship. Deadline: 30th September |
 | [Shutterstock](www.shutterstock.com) | EMEA - Dublin | [Software Engineer Intern](https://shutterstock.wd1.myworkdayjobs.com/en-US/ShutterstockCareers/job/Dublin/Software-Engineer-Intern_R0001086), [Data Science Intern](https://shutterstock.wd1.myworkdayjobs.com/en-US/ShutterstockCareers/job/Dublin/Data-Science-Intern_R0001088) |
 | [Databricks](https://databricks.com/) | EMEA - Amsterdam | [SWE - Intern](https://databricks.com/company/careers/open-positions/job?gh_jid=5488592002), [SWE - New Grad](https://databricks.com/company/careers/open-positions/job?gh_jid=5488581002) |
-
 | [TikTok](https://careers.tiktok.com/position?keywords=&category=6704215862603155720&location=&project=6994735642836977928&type=3&job_hot_flag=&current=1&limit=10) | EMEA - London, APAC - Singapore | - |
 
 ## Big thanks to the contributors✨
