@@ -33,6 +33,7 @@ The repo was inspired by the similar one from [Summer 2022 Internships by Pitt C
 | [TikTok](https://careers.tiktok.com/position?keywords=&category=6704215862603155720&location=&project=6994735642836977928&type=3&job_hot_flag=&current=1&limit=10) | EMEA - London, APAC - Singapore | - |
 | [Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineering-Summer-Internship/1343429) | EMEA - Lysaker | - |
 | [IBM](https://careers.ibm.com/job/13848226/software-engineer-intern-cork-ie/?codes=IBM_CareerWebSite) | EMEA - Cork | Software Engineer Intern |
+| [Toast](https://careers.toasttab.com/job/?url=job&gh_jid=3461165) | EMEA - Dublin | Summer Software Engineer Internship |
 
 ## Big thanks to the contributors✨
 * [justadlet](https://github.com/justadlet)
