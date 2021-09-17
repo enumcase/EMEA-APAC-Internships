@@ -34,6 +34,9 @@ The repo was inspired by the similar one from [Summer 2022 Internships by Pitt C
 | [Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineering-Summer-Internship/1343429) | EMEA - Lysaker | - |
 | [IBM](https://careers.ibm.com/job/13848226/software-engineer-intern-cork-ie/?codes=IBM_CareerWebSite) | EMEA - Cork | Software Engineer Intern |
 | [Toast](https://careers.toasttab.com/job/?url=job&gh_jid=3461165) | EMEA - Dublin | Summer Software Engineer Internship |
+| [Jump Trading](https://www.jumptrading.com/apply.html?gh_jid=2939854) | EMEA - London | Tech Ops Engineering Intern |
+| [Blackrock](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-730d836e367b/candidate/so/pm/1/pl/1/opp/5365-Summer-Analyst-Program-EMEA/en-GB) | EMEA - London | Summer Analyst Program |
+| [Rakuten](https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenInc/job/Tokyo-Japan/Security-Engineer--Internship----Cyber-Security-Defense-Department_00001089?_ga=2.231422941.379941621.1631862433-683823413.1631682348) | EMEA - Tokyo | Cyber Security Intern |
 
 ## Big thanks to the contributors✨
 * [justadlet](https://github.com/justadlet)
