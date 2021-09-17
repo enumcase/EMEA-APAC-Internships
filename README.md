@@ -45,3 +45,4 @@ The repo was inspired by the similar one from [Summer 2022 Internships by Pitt C
 * [zhumanklv](https://github.com/zhumanklv)
 * [bekadeveloper](https://github.com/bekadeveloper)
 * [madalinalexa](https://github.com/madalinalexa)
+* [ironsoul0](https://github.com/ironsoul0)
