@@ -25,7 +25,7 @@ The repo was inspired by the similar one from [Summer 2022 Internships by Pitt C
 | [Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/) | EMEA - London, Dublin, APAC - Hong Kong | - |
 | [Stripe](https://stripe.com/jobs/search?q=intern+new+grad) | EMEA - London, Dublin, APAC - Singapore | - |
 | [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/) | Multiple locations across Europe and Asia | Summer Analyst and Off-cycle Internships |
-| Amazon| EMEA - [Dublin](https://www.amazon.jobs/en/jobs/1694116/software-development-engineer-internship-2022-dublin), [Bucharest](https://www.amazon.jobs/en/jobs/1674285/software-dev-engineer-intern-bucharest-summer-2022), [Madrid](https://www.amazon.jobs/en/jobs/1709009/software-development-engineer-internship-2022-madrid-spain), [Barcelona](https://www.amazon.jobs/en/jobs/1709010/software-development-engineer-internship-2022-barcelona-spain) | - |
+| Amazon| EMEA - [Dublin](https://www.amazon.jobs/en/jobs/1694116/software-development-engineer-internship-2022-dublin), [Bucharest](https://www.amazon.jobs/en/jobs/1674285/software-dev-engineer-intern-bucharest-summer-2022), [Madrid](https://www.amazon.jobs/en/jobs/1709009/software-development-engineer-internship-2022-madrid-spain), [Barcelona](https://www.amazon.jobs/en/jobs/1709010/software-development-engineer-internship-2022-barcelona-spain), [Berlin](https://www.amazon.jobs/en/jobs/1729097/software-development-engineer-intern-2022-berlin), [Luxembourg](https://www.amazon.jobs/en/jobs/1729117/software-development-engineer-internship-2022-luxembourg) | SWE Intern, SDE Intern |
 | [Facebook](https://www.facebook.com/careers/v2/jobs/389614179266190/)| EMEA - London | Software Engineer, Intern/Co-op |
 | [Google](https://careers.google.com/jobs/results/111206685625721542/) | APAC - Singapore | STEP Internship. Deadline: 30th September |
 | Shutterstock | EMEA - Dublin | [Software Engineer Intern](https://shutterstock.wd1.myworkdayjobs.com/en-US/ShutterstockCareers/job/Dublin/Software-Engineer-Intern_R0001086), [Data Science Intern](https://shutterstock.wd1.myworkdayjobs.com/en-US/ShutterstockCareers/job/Dublin/Data-Science-Intern_R0001088) |
@@ -37,6 +37,8 @@ The repo was inspired by the similar one from [Summer 2022 Internships by Pitt C
 | [Jump Trading](https://www.jumptrading.com/apply.html?gh_jid=2939854) | EMEA - London | Tech Ops Engineering Intern |
 | [Blackrock](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-730d836e367b/candidate/so/pm/1/pl/1/opp/5365-Summer-Analyst-Program-EMEA/en-GB) | EMEA - London | Summer Analyst Program |
 | [Rakuten](https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenInc/job/Tokyo-Japan/Security-Engineer--Internship----Cyber-Security-Defense-Department_00001089?_ga=2.231422941.379941621.1631862433-683823413.1631682348) | EMEA - Tokyo | Cyber Security Intern |
+| [DeepMind](https://deepmind.com/careers/internships) | EMEA - London, Paris | Software Engineer Intern, Research Engineer Intern, Research Scientist Intern |
+
 
 ## Big thanks to the contributors✨
 * [justadlet](https://github.com/justadlet)
