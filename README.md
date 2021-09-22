@@ -38,7 +38,7 @@ The repo was inspired by the similar one from [Summer 2022 Internships by Pitt C
 | [Blackrock](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-730d836e367b/candidate/so/pm/1/pl/1/opp/5365-Summer-Analyst-Program-EMEA/en-GB) | EMEA - London | Summer Analyst Program |
 | [Rakuten](https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenInc/job/Tokyo-Japan/Security-Engineer--Internship----Cyber-Security-Defense-Department_00001089?_ga=2.231422941.379941621.1631862433-683823413.1631682348) | EMEA - Tokyo | Cyber Security Intern |
 | [DeepMind](https://deepmind.com/careers/internships) | EMEA - London, Paris | Software Engineer Intern, Research Engineer Intern, Research Scientist Intern |
-
+| [Twitter](https://jobs.smartrecruiters.com/ni/Twitter2/434ede5b-2775-4628-aee5-fbd573936a25-2022-engineering-internships-europe-middle-east-africa-emea-) | EMEA - London | Software Engineer Intern |
 
 ## Big thanks to the contributors✨
 * [justadlet](https://github.com/justadlet)
