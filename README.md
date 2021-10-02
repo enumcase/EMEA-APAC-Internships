@@ -39,6 +39,7 @@ The repo was inspired by the similar one from [Summer 2022 Internships by Pitt C
 | [Rakuten](https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenInc/job/Tokyo-Japan/Security-Engineer--Internship----Cyber-Security-Defense-Department_00001089?_ga=2.231422941.379941621.1631862433-683823413.1631682348) | EMEA - Tokyo | Cyber Security Intern |
 | [DeepMind](https://deepmind.com/careers/internships) | EMEA - London, Paris | Software Engineer Intern, Research Engineer Intern, Research Scientist Intern |
 | [Twitter](https://jobs.smartrecruiters.com/ni/Twitter2/434ede5b-2775-4628-aee5-fbd573936a25-2022-engineering-internships-europe-middle-east-africa-emea-) | EMEA - London | Software Engineer Intern |
+| [Snapchat](https://www.snap.com/ru-RU/jobs?roles=Engineering&types=Intern) | EMEA - London | Software Engineer Intern, Computer Vision Intern |
 
 ## Big thanks to the contributors✨
 * [justadlet](https://github.com/justadlet)
