@@ -13,7 +13,7 @@ The repo was inspired by the similar one from [Summer 2022 Internships by Pitt C
 |  Name |  Region/location |  Notes  |
 |-----|---------|--------------|
 | [Optiver](https://www.optiver.com/working-at-optiver/career-opportunities/990203/?gh_src=2af42e681us) | EMEA - Amsterdam | Must be a penultimate year student (graduating in 2023) based in the European region |
-| [Morgan Stanley](https://morganstanley.tal.net/vx/candidate/apply/11680) | APAC - Hong Kong | Summer Analyst role. Application deadline due to Sunday, 26th September 23:59 HKT |
+| <del>Morgan Stanley</del> | APAC - Hong Kong | Summer Analyst role. **Closed** |
 | [DEShaw & Co](https://www.deshaw.com/careers/internships) | EMEA - London | Systems Technologist/Administrator Intern |
 | <del>Clover Health</del> | APAC - Hong Kong | **Closed** |
 | [Palantir](https://www.palantir.com/careers/) | APAC - Tokyo, EMEA - London | Must be planning on graduating in 2023. This should be your final internship before graduating |
@@ -27,7 +27,7 @@ The repo was inspired by the similar one from [Summer 2022 Internships by Pitt C
 | [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/) | Multiple locations across Europe and Asia | Summer Analyst and Off-cycle Internships |
 | Amazon| EMEA - [Dublin](https://www.amazon.jobs/en/jobs/1694116/software-development-engineer-internship-2022-dublin), [Bucharest](https://www.amazon.jobs/en/jobs/1674285/software-dev-engineer-intern-bucharest-summer-2022), [Madrid](https://www.amazon.jobs/en/jobs/1709009/software-development-engineer-internship-2022-madrid-spain), [Barcelona](https://www.amazon.jobs/en/jobs/1709010/software-development-engineer-internship-2022-barcelona-spain), [Berlin](https://www.amazon.jobs/en/jobs/1729097/software-development-engineer-intern-2022-berlin), [Luxembourg](https://www.amazon.jobs/en/jobs/1729117/software-development-engineer-internship-2022-luxembourg) | SWE Intern, SDE Intern |
 | [Facebook](https://www.facebook.com/careers/v2/jobs/389614179266190/)| EMEA - London | Software Engineer, Intern/Co-op |
-| [Google](https://careers.google.com/jobs/results/111206685625721542/) | APAC - Singapore | STEP Internship. Deadline: 30th September |
+| <del>Google</del> | APAC - Singapore | STEP Internship. **Closed** |
 | Shutterstock | EMEA - Dublin | [Software Engineer Intern](https://shutterstock.wd1.myworkdayjobs.com/en-US/ShutterstockCareers/job/Dublin/Software-Engineer-Intern_R0001086), [Data Science Intern](https://shutterstock.wd1.myworkdayjobs.com/en-US/ShutterstockCareers/job/Dublin/Data-Science-Intern_R0001088) |
 | Databricks | EMEA - Amsterdam | [SWE - Intern](https://databricks.com/company/careers/open-positions/job?gh_jid=5488592002), [SWE - New Grad](https://databricks.com/company/careers/open-positions/job?gh_jid=5488581002) |
 | [TikTok](https://careers.tiktok.com/position?keywords=&category=6704215862603155720&location=&project=6994735642836977928&type=3&job_hot_flag=&current=1&limit=10) | EMEA - London, APAC - Singapore | - |
