@@ -41,6 +41,7 @@ The repo was inspired by the similar one from [Summer 2022 Internships by Pitt C
 | [Twitter](https://jobs.smartrecruiters.com/ni/Twitter2/434ede5b-2775-4628-aee5-fbd573936a25-2022-engineering-internships-europe-middle-east-africa-emea-) | EMEA - London | Software Engineer Intern |
 | [Snapchat](https://www.snap.com/ru-RU/jobs?roles=Engineering&types=Intern) | EMEA - London | Software Engineer Intern, Computer Vision Intern |
 | [VoltronData](https://jobs.lever.co/VoltronData/220cbf6a-f259-42a9-828a-26caaba71af0) | Worldwide Remote | Intern Compute Kernels Engineer |
+| [Sentry](https://sentry.io/careers/3486690) | EMEA - Vienna | - |
 ## Big thanks to the contributors✨
 * [justadlet](https://github.com/justadlet)
 * [yeraassyl](https://github.com/yeraassyl)
